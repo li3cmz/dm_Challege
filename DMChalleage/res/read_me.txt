@@ -1,0 +1,2 @@
+test_preds.csv是中间结果，需要钊前面的read.txt讲的做两步的手动处理，再运行getResult.py去取得test_preds_res.csv的结果
+test_preds_res.csv是可以直接提交的

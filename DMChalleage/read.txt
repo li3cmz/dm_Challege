@@ -1,0 +1,5 @@
+线上0.853577
+线下0.870+
+注意：
+训练过程得到的test_preds.csv需要在csv手动加入Uid和排序
+运行完得到的test_preds_res.csv不要打开，直接用pandas查看结果即可。
